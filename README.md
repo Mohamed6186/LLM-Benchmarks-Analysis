@@ -76,10 +76,40 @@ A detailed comparison between open and proprietary models.
 The project includes several visualizations such as:
 
 * Parameters Distribution
+
+<p align="center">
+<img src="images/parameters_histogram.png" width="700">
+</p>
+
 * Safety Comparison
+  
+<p align="center">
+<img src="images/safety_by_provider.png" width="700">
+</p>
+
 * Cost vs Performance Analysis
+
+<p align="center">
+<img src="images/section5_cost_vs_performance.png" width="700">
+</p>
+
 * Best Value Models
+
+<p align="center">
+<img src="images/section5_top_value_models.png" width="700">
+</p>
+
 * Open vs Closed Source Comparison
+
+<p align="center">
+<img src="images/section5_open_vs_closed_value.png" width="700">
+</p>
+
+* Correlation Matrix of Key Performance Metrics
+
+<p align="center">
+<img src="images/Correlation Matrix of Key Performance Metrics.png" width="700">
+</p>
 
 ---
 
